@@ -31,5 +31,5 @@ Hierarchical clustering of Formula 1 drivers from the 2022 & 2023 Monaco Grand P
 
 Tanglegrams to compare clustering of drivers between the 2022 and 2023 Monaco Grand Prix.
 
-<img src="https://github.com/user-attachments/assets/bc4c4382-b29b-4aff-a749-dde8c0b4c8ca" alt="tanglegram" width=500/>
+<img src="https://github.com/user-attachments/assets/bc4c4382-b29b-4aff-a749-dde8c0b4c8ca" alt="tanglegram" width=700/>
 
