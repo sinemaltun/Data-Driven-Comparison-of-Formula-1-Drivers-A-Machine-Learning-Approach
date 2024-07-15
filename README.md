@@ -9,7 +9,7 @@ The 2023-2024 Spring semester graduation project aims to analyze telemetry and r
 
 - **FastF1 Package:**
   - Utilized the FastF1 package for telemetry data analysis.
-  - Data accessed from the [FastF1 GitHub repository](https://github.com/theo-bour/).
+  - Data accessed from the [FastF1 GitHub repository](https://github.com/theOehrly/Fast-F1).
  
 ### Team Radio Communications
 
